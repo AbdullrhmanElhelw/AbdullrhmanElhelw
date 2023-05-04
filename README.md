@@ -1,6 +1,7 @@
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullrhmanelhelw&label=Vistors%C2%A0-%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1&color=21b487&style=flat" alt="abdullrhmanelhelw" /> </p>
 <img align="right" height="380" src="https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e47qc3kzj9ccsp1k6uqm63angrylsww7juvdk4tn4nl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
- 
+
 
 # Hi, I'M Abdullrhman Elhelw! 👋
 
@@ -16,9 +17,11 @@ with a strong willingness to learn and gain more experience in the field of tech
 
 - 💬 Ask me about **C# , SQL Server**
 
+ 
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 ###
 
@@ -27,7 +30,7 @@ with a strong willingness to learn and gain more experience in the field of tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" width="87" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" width="87" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" width="87" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="37" width="87" alt="microsoftsqlserver logo"  />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="37" width="87" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" width="87" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" width="87" alt="github logo"  />
@@ -36,7 +39,7 @@ with a strong willingness to learn and gain more experience in the field of tech
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🔗 Connect with me:</h3>
 
 ###
 
