@@ -1,5 +1,5 @@
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullrhmanelhelw&label=Vistors%C2%A0-%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1&color=21b487&style=flat" alt="abdullrhmanelhelw" /> </p>
-<img align="right" height="380" src="https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e47qc3kzj9ccsp1k6uqm63angrylsww7juvdk4tn4nl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="380" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47o1i5u2qtkhppb9kzgu36t94ccrpv648azbx4kvw3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
 
@@ -62,22 +62,20 @@ with a strong willingness to learn and gain more experience in the field of tech
 
 <div align="left">
  
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullrhmanElhelw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="138" alt="stats graph"  />
-  
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullrhmanElhelw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=4" height="180" alt="stats graph"  />
+  </div>
  
 
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdullrhmanElhelw&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=10&order=5" height="200"  alt="streak graph"  />
+  </div>
   
-  <img src="https://streak-stats.demolab.com?user=AbdullrhmanElhelw&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=10&order=3" height="139"  alt="streak graph"  />
-  
-  
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullrhmanElhelw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue-dark&hide_border=true&order=2" height="138" alt="languages graph"  />
- 
-  <!-- Leo Messi -->
-  <img height="400" src="https://media0.giphy.com/media/dRcb3xrnZJQmPVnY2W/giphy.gif?cid=ecf05e473pksp9mxpjja74xq52jib6286cznlrp44zzrqfem&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullrhmanElhelw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=true&order=4" height="180" alt="languages graph"  />
  </div>
-   
+
+</div>
 
 ###
 
