@@ -1,5 +1,6 @@
-<img align="right" height="500" src="https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e47qc3kzj9ccsp1k6uqm63angrylsww7juvdk4tn4nl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="380" src="https://media2.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif?cid=ecf05e47qc3kzj9ccsp1k6uqm63angrylsww7juvdk4tn4nl&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
+ 
 
 # Hi, I'M Abdullrhman Elhelw! 👋
 
@@ -7,12 +8,13 @@
 ## 🚀 About Me
 <h4>I'm a .Net Developer (intern)
 with a strong willingness to learn and gain more experience in the field of technology.
+
 <h4>
+
 
 - 🌱 I’m currently learning **ASP.Net MVC**
 
 - 💬 Ask me about **C# , SQL Server**
-- 📫 How to reach me **elhelw258@gmail.com**
 
 
 
@@ -53,11 +55,22 @@ with a strong willingness to learn and gain more experience in the field of tech
 </div>
 
 ###
-<div align="left">
+<div align="center">
+ 
+ <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullrhmanElhelw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="138" alt="stats graph"  />
+  </div>
+ 
+ <div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=AbdullrhmanElhelw&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="139"  alt="streak graph"  />
+   </div>
+  
+  <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullrhmanElhelw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&order=2" height="138" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AbdullrhmanElhelw&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="139" alt="streak graph"  />
-</div>
+   </div>
+  
+
 
 ###
 
