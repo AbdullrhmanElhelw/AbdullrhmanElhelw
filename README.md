@@ -12,6 +12,8 @@ with a strong willingness to learn and gain more experience in the field of tech
 - 🌱 I’m currently learning **ASP.Net MVC**
 
 - 💬 Ask me about **C# , SQL Server**
+- 📫 How to reach me **elhelw258@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,10 +38,18 @@ with a strong willingness to learn and gain more experience in the field of tech
 
 ###
 
+ 
 <div align="left">
+  <a href="mailto:elhelw258@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="35" alt="gmail logo"  />
+  </a>
+  
+  <a href="mailto:elhelw258@gmail.com" target="_blank">
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="85" height="35" alt="whatsapp logo"  />
+  
+  </a>
+ 
 </div>
 
 ###
