@@ -12,12 +12,12 @@ with a strong willingness to learn and gain more experience in the field of tech
 
 <h4>
 
+ - 👩‍💻 Third level CS student currently learning programming languages, algorithms, and solving coding problems to become a proficient software developer.
 
 - 🌱 I’m currently learning **ASP.Net MVC**
 
 - 💬 Ask me about **C# , SQL Server**
   
- - 👩‍💻 Third level CS student currently learning programming languages, algorithms, and solving coding problems to become a proficient software developer.
  
 
 
