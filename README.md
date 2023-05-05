@@ -1,4 +1,4 @@
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullrhmanelhelw&label=Vistors%C2%A0-%20%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1&color=21b487&style=flat" alt="abdullrhmanelhelw" /> </p>
+
 <img align="right" height="380" src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47o1i5u2qtkhppb9kzgu36t94ccrpv648azbx4kvw3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
@@ -11,16 +11,16 @@
 ## 🚀 About Me
 <h4>I'm a .Net Developer (intern)
 with a strong willingness to learn and gain more experience in the field of technology.
+</h4>
 
-<h4>
-
- - 👩‍💻 Third level CS student currently learning programming languages, algorithms, and solving coding problems to become a proficient software developer.
-
-- 🌱 I’m currently learning **ASP.Net MVC**
-
-- 💬 Ask me about **C# , SQL Server**
+- 🎓 Third Level Computer Scince Studnet at Zagazig University
+- 🤝 I’m looking for help with Building Complete Web site using .Net Core
+- 🌱 I’m currently learning .Net Core MVC , EF Core
+- 💬 Ask me about C# ,SQL Server
+- ⚡ Fun fact Coding is behind almost everything that is powered by electricity.
   
- 
+ <hr/>
+
 
 
 
@@ -60,24 +60,19 @@ with a strong willingness to learn and gain more experience in the field of tech
  
 </div>
 
-###
+ <hr/>
 
-<div align="left">
- 
-  <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullrhmanElhelw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=4" height="180" alt="stats graph"  />
-  </div>
- 
 
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdullrhmanElhelw&locale=en&mode=daily&theme=blue-green&hide_border=true&border_radius=10&order=5" height="200"  alt="streak graph"  />
-  </div>
-  
- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullrhmanElhelw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=true&order=4" height="180" alt="languages graph"  />
- </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdullrhmanElhelw&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullrhmanElhelw&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullrhmanElhelw&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=AbdullrhmanElhelw&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
 
