@@ -1,4 +1,5 @@
 
+<h3 align="center" font="amiri" >  اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ ، إِنَّكَ حَمِيدٌ مَجِيدٌ <h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=M+PLUS+1+Code&size=25&duration=4000&pause=200&color=C4FFD5&background=1C0FFF00&center=true&width=435&height=80&lines=Backend+Web+Developer+;Using+.Net+Core+;Always+Be+Inventive+)](https://git.io/typing-svg)
 
