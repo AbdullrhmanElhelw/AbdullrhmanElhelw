@@ -15,10 +15,10 @@
 with a strong willingness to learn and gain more experience in the field of technology.
 </h4>
 
-- 🎓 Third Level Computer Scince Studnet at Zagazig University
+- 🎓 Senior Computer Scince Studnet at Zagazig University
 - 🤝 I’m looking for help with Building Complete Web site using .Net Core
-- 🌱 I’m currently learning .Net Core MVC , EF Core
-- 💬 Ask me about C# ,SQL Server
+- 🌱 I’m currently learning Clean Archticure 
+- 💬 Ask me about C#, SQL Server ,ASP.Net Core, Web APIs, EF-Core, Dapper
 - ⚡ Fun fact Coding is behind almost everything that is powered by electricity.
   
  <hr/>
@@ -42,7 +42,12 @@ with a strong willingness to learn and gain more experience in the field of tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="37" width="87" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="37" width="87" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" width="87" alt="dotnetcore logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="37" width="87" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="37" width="87" alt="Entity Framework Core logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-plain.svg" height="37" width="87" alt="Dapper logo or database icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" width="87" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" width="87"
+
 
 </div>
 
