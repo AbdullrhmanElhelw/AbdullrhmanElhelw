@@ -44,8 +44,6 @@ with a strong willingness to learn and gain more experience in the field of tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" width="87" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="37" width="87" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" width="87" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/key/key-plain.svg" height="37" width="87" alt="JWT icon" />
-
 
 </div>
 
