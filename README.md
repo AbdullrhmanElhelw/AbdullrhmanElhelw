@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🎓 Senior Computer Science Student at Zagazig University  <br>🔭 I’m currently working on Building Web APIs With Clean Architecture and Support multi-Tenancy   <br>🤝I'm looking for Seeking help with various projects.  <br>🌱 I’m currently learning gRPC and DDD  <br>💬 Ask me about C#, SQL Server, ASP.Net Core, Web APIs, EF-Core, Dapper, and architectural patterns.  <br>⚡ Fun fact Coding is behind almost everything that is powered by electricity.</p>
+<p align="left">🎓 Computer Science Graduated  <br>🔭 I’m currently working on Building Web APIs With Clean Architecture and Support multi-Tenancy   <br>🤝I'm looking for Seeking help with various projects.  <br>🌱 I’m currently learning gRPC and DDD  <br>💬 Ask me about C#, SQL Server, ASP.Net Core, Web APIs, EF-Core, Dapper, and architectural patterns.  <br>⚡ Fun fact Coding is behind almost everything that is powered by electricity.</p>
 
 ###
 
